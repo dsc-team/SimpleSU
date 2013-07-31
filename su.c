@@ -22,7 +22,7 @@
 
 #define APPNUMBER 128
 
-#define INSECURE 1
+//#define INSECURE 1
 
 #ifdef INSECURE
 #define VERSION "v0.7.Insecure"
